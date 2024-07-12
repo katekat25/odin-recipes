@@ -5,7 +5,7 @@ This is a short, bare-bones website I created as part of the Odin Project curric
 I have demonstrated various skills relating to Git and basic HTML in this project, including:
 * Generating an HTML boilerplate from memory and automatically with `!`
 * Relative and absolute links, as well as opening in a new tab and hiding your info from the site you're linking with `noopener` and `noreferrer`
-* Embedding images
+* Embedding images with `height`, `width`, and `alt` attributes
 * Changing font styles with `<em>` and `<strong>`
 * Making ordered and unordered lists
 * Utilizing the Git and Github workflow (generating an SSH key, cloning a repository, `git add`, `git commit -m ""`, and `git push origin main`)
