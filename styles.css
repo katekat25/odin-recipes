@@ -1,9 +1,30 @@
 #title {
-    color: purple;
+    color: #E5446D;
     text-align: center;
 }
 
 body {
     font-family:'Courier New', Courier, monospace;
-    background-color:#F9F2EB;
+    background-color:#F8F4E3;
+}
+
+.homepage {
+    list-style: none;
+    text-align: center;
+}
+
+.homepage li {
+    display: inline;
+    background-color: #FFDED4;
+    border-style: ridge;
+    border-width: 5px;
+    border-color: #FFDED4;
+}
+
+a:link {
+    color: #E5446D;
+}
+
+a:visited, a:active, a:hover {
+    color: #FF8966;
 }
